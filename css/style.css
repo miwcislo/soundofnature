@@ -8,6 +8,7 @@ body {
 
 #container {
     height: 100vh;
+    padding: 30px 50px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url(../img/Animals_background.jpg);
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/Animals_background.jpg);
     background-repeat: no-repeat;
@@ -39,8 +40,8 @@ h1 {
 }
 
 .key {
-    width: 75px;
-    height: 75px;
+    width: 60px;
+    height: 60px;
     background-color: rgb(154, 205, 50);
     color: #fff;
     border: 1px solid yellowgreen;
